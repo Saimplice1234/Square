@@ -3,13 +3,13 @@
 <img src="https://user-images.githubusercontent.com/69945589/116010898-b7ca3980-a5d6-11eb-81e7-62cb4463320f.jpg" width="450">
 </p>
 <p align="center">
-  Read, Share, Enjoy the Next Joke. Built with Flutter.
+  Stay tuned to all the new movies with square. Built with Flutter.
 </p>
 <p align="center">
   <a href="https://drive.google.com/file/d/1f5WP1f3-MRZ5JUZmKP5b-lkV7I2yXGKz/view?usp=sharing">
-    <img src="https://img.shields.io/badge/apk-demo-blue" width="100">
+    <img src="https://img.shields.io/badge/apk-demo-red" width="100">
   </a>
-    <img src="https://img.shields.io/badge/version-v0.5-green" width="120">
+    <img src="https://img.shields.io/badge/version-v0.5-red" width="120">
 </p>
 
 #### Initial Widget on CodeAppRun:
