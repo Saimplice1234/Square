@@ -20,7 +20,7 @@ void main() async{
   await Hive.init(directory.path);
   runApp(MyApp());
 }
-
+//hello
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
