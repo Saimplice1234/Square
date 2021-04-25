@@ -1,6 +1,6 @@
-<h1 align="center"> NextJoke </h1> <br>
+<h1 align="center"> Square </h1> <br>
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1wyExc7ALtqAPZo-YsGIm44pjRMcEmwgt" width="450">
+<img src="https://user-images.githubusercontent.com/69945589/116010898-b7ca3980-a5d6-11eb-81e7-62cb4463320f.jpg" width="450">
 </p>
 <p align="center">
   Read, Share, Enjoy the Next Joke. Built with Flutter.
